@@ -199,6 +199,12 @@ form.active {
   min-width: 400px;
 }
 
+/* Errors */
+.errors {
+  color: red;
+  font-size: 12px;
+}
+
 /* Mobile Responsive Styles */
 @media (max-width: 768px) {
   .sign-con {
